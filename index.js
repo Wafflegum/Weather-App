@@ -27,7 +27,7 @@ async function GetWeather()
     
     GetCurrentWeather(current_weather_data);
     Forecast(forecast_weather_data);
-    console.log(current_weather_data);
+    console.log(forecast_weather_data);
 }
 function GetCurrentWeather(data)
 {

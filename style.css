@@ -1,9 +1,17 @@
 *{
+    
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 body {
+    background: url(Images/wp3616957-2953305718.jpg);
     color:#ffffff;
     background-color: #292929;
+}
+.container {
+    margin: 2.5rem;
+    padding: 5rem;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 25px;
 }
 .city{
     text-align: center;
